@@ -1,0 +1,28 @@
+name: Bradley Osborne
+favicon: null
+layout_spectrum: 0.09869617549702525
+typography_spectrum: 0.58529964229092
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.15285009099170566
+  lightness: 0.14172760723158717
+  saturation: 0.758565180003643
+  rhythmicContrast: 0.209694653050974
+purpose: []
